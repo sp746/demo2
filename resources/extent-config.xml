@@ -1,0 +1,6 @@
+<extentReport>
+    <reporter>
+        <name>html</name>
+        <path>target/extent-report.html</path>
+    </reporter>
+</extentReport>
